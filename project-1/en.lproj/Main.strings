@@ -1,0 +1,39 @@
+
+/* Class = "UILabel"; text = "Go to the store and grab Hot Cheetos"; ObjectID = "7ZS-zZ-Yxg"; */
+"7ZS-zZ-Yxg.text" = "Go to the store and grab Hot Cheetos";
+
+/* Class = "UILabel"; text = "Tap the \"+\" button to add tasks"; ObjectID = "9An-t6-Ghh"; */
+"9An-t6-Ghh.text" = "Tap the \"+\" button to add tasks";
+
+/* Class = "UINavigationItem"; title = "Tasks"; ObjectID = "BEp-bB-g30"; */
+"BEp-bB-g30.title" = "Tasks";
+
+/* Class = "UIButton"; configuration.title = "Attach Photo"; ObjectID = "U18-CX-28F"; */
+"U18-CX-28F.configuration.title" = "Attach Photo";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "U18-CX-28F"; */
+"U18-CX-28F.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Make sure to get the Xtra Hot variety in either the large or medium large bag."; ObjectID = "XK8-9k-CuP"; */
+"XK8-9k-CuP.text" = "Make sure to get the Xtra Hot variety in either the large or medium large bag.";
+
+/* Class = "UITextField"; placeholder = "Description"; ObjectID = "fXp-ww-cKc"; */
+"fXp-ww-cKc.placeholder" = "Description";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "fmg-4p-f0B"; */
+"fmg-4p-f0B.title" = "Cancel";
+
+/* Class = "UILabel"; text = "Complete"; ObjectID = "iP0-tx-npM"; */
+"iP0-tx-npM.text" = "Complete";
+
+/* Class = "UITextField"; placeholder = "Title"; ObjectID = "lYk-Ia-Eqa"; */
+"lYk-Ia-Eqa.placeholder" = "Title";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "oxE-u5-MuP"; */
+"oxE-u5-MuP.title" = "Done";
+
+/* Class = "UILabel"; text = "Go to the store and grab Hot Cheetos"; ObjectID = "rY4-bn-3Uz"; */
+"rY4-bn-3Uz.text" = "Go to the store and grab Hot Cheetos";
+
+/* Class = "UINavigationItem"; title = "New Task"; ObjectID = "vWC-DD-cn2"; */
+"vWC-DD-cn2.title" = "New Task";
